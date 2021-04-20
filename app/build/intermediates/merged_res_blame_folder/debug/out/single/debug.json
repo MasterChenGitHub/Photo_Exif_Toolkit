@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_folder_open_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_folder_open_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_done_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_done_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_date_range_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_circle_outline_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_remove_circle_outline_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_photo_detail.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\layout\\content_photo_detail.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_public_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_public_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_maps.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\layout\\dialog_maps.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clear_all_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_clear_all_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_size_select_actual_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_photo_size_select_actual_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_blur_on_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_blur_on_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_dialog_maps.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\menu\\menu_dialog_maps.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo_detail.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\layout\\activity_photo_detail.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_library_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_photo_library_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pin_drop_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_pin_drop_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_exif_data.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\layout\\item_exif_data.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_outline_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_info_outline_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_create_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_create_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_photo_detail.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\menu\\menu_photo_detail.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "D:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_camera_black_24dp.xml.flat",
+        "source": "D:\\test\\Photo_Exif_Toolkit\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_24dp.xml"
+    }
+]

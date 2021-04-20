@@ -1,0 +1,4 @@
+#Mon Apr 19 10:03:01 CST 2021
+base.0=D\:\\test\\Photo_Exif_Toolkit\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

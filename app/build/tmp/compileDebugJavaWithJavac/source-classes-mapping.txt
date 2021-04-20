@@ -1,0 +1,2 @@
+com/angelgladin/photoexiftoolkit/BuildConfig.java
+ com.angelgladin.photoexiftoolkit.BuildConfig

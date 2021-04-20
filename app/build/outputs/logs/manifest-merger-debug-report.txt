@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\54d48c2531b316dafb6224de6fe6eda2\appcompat-v7-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\034c6f06e83047f4744076b2fbd0221a\transition-25.3.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ba5873eb8d5ef3f4d21f6ab8d7eb1d64\play-services-tasks-10.2.1\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\b04b6cef74b092efd00bf5f6275d28be\play-services-basement-10.2.1\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\7e62ff7970fbc500c519a80baa8445ae\support-v4-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\0d40ba437f9c87fe3e790ee9c6f63be9\cardview-v7-25.3.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\2ed29a7df05cc5c13fac7755ee5bda81\animated-vector-drawable-25.3.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ec17b63986c8990ee8a709fb692aba69\support-vector-drawable-25.3.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\9f682c10190c3ba8bbce3a6a697c24fe\recyclerview-v7-25.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\43844c9cb74565322ad16a9230316100\support-fragment-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\44eb608cc6220477f0d17d6bbc795768\support-media-compat-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\dc945cab323ade101ba0a050cd0373ec\support-core-utils-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4c9dc317c98160306623880929d9a320\support-core-ui-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4e413f488a5522caf4fb2c7cc40402b2\support-compat-25.3.1\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:5:3-77
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:5:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:6:3-78
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:6:20-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:8:3-64
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:8:20-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:10:3-76
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:10:20-74
+application
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:12:3-40:17
+MERGED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:26:5-31:19
+MERGED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:26:5-31:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\54d48c2531b316dafb6224de6fe6eda2\appcompat-v7-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\54d48c2531b316dafb6224de6fe6eda2\appcompat-v7-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\034c6f06e83047f4744076b2fbd0221a\transition-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\034c6f06e83047f4744076b2fbd0221a\transition-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ba5873eb8d5ef3f4d21f6ab8d7eb1d64\play-services-tasks-10.2.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ba5873eb8d5ef3f4d21f6ab8d7eb1d64\play-services-tasks-10.2.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\b04b6cef74b092efd00bf5f6275d28be\play-services-basement-10.2.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\b04b6cef74b092efd00bf5f6275d28be\play-services-basement-10.2.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\7e62ff7970fbc500c519a80baa8445ae\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\7e62ff7970fbc500c519a80baa8445ae\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\0d40ba437f9c87fe3e790ee9c6f63be9\cardview-v7-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\0d40ba437f9c87fe3e790ee9c6f63be9\cardview-v7-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\2ed29a7df05cc5c13fac7755ee5bda81\animated-vector-drawable-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\2ed29a7df05cc5c13fac7755ee5bda81\animated-vector-drawable-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ec17b63986c8990ee8a709fb692aba69\support-vector-drawable-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ec17b63986c8990ee8a709fb692aba69\support-vector-drawable-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\43844c9cb74565322ad16a9230316100\support-fragment-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\43844c9cb74565322ad16a9230316100\support-fragment-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\44eb608cc6220477f0d17d6bbc795768\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\44eb608cc6220477f0d17d6bbc795768\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\dc945cab323ade101ba0a050cd0373ec\support-core-utils-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\dc945cab323ade101ba0a050cd0373ec\support-core-utils-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4c9dc317c98160306623880929d9a320\support-core-ui-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4c9dc317c98160306623880929d9a320\support-core-ui-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4e413f488a5522caf4fb2c7cc40402b2\support-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4e413f488a5522caf4fb2c7cc40402b2\support-compat-25.3.1\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:16:7-33
+	android:label
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:15:7-39
+	android:icon
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:13:7-33
+	android:theme
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:17:7-38
+activity#com.angelgladin.photoexiftoolkit.activity.HomeActivity
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:18:5-28:16
+	android:screenOrientation
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:21:9-45
+	android:label
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:20:9-41
+	android:theme
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:19:9-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:23:7-27:23
+action#android.intent.action.MAIN
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:24:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:26:9-68
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:26:19-66
+activity#com.angelgladin.photoexiftoolkit.activity.PhotoDetailActivity
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:29:5-34:16
+	android:screenOrientation
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:32:9-45
+	android:label
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:31:9-41
+	android:theme
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:30:9-53
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:36:5-38:50
+	android:value
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:38:9-48
+	android:name
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml:37:9-54
+uses-sdk
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\54d48c2531b316dafb6224de6fe6eda2\appcompat-v7-25.3.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\54d48c2531b316dafb6224de6fe6eda2\appcompat-v7-25.3.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\034c6f06e83047f4744076b2fbd0221a\transition-25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\034c6f06e83047f4744076b2fbd0221a\transition-25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ba5873eb8d5ef3f4d21f6ab8d7eb1d64\play-services-tasks-10.2.1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ba5873eb8d5ef3f4d21f6ab8d7eb1d64\play-services-tasks-10.2.1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\b04b6cef74b092efd00bf5f6275d28be\play-services-basement-10.2.1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\b04b6cef74b092efd00bf5f6275d28be\play-services-basement-10.2.1\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\7e62ff7970fbc500c519a80baa8445ae\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\7e62ff7970fbc500c519a80baa8445ae\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\0d40ba437f9c87fe3e790ee9c6f63be9\cardview-v7-25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\0d40ba437f9c87fe3e790ee9c6f63be9\cardview-v7-25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\2ed29a7df05cc5c13fac7755ee5bda81\animated-vector-drawable-25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\2ed29a7df05cc5c13fac7755ee5bda81\animated-vector-drawable-25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ec17b63986c8990ee8a709fb692aba69\support-vector-drawable-25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ec17b63986c8990ee8a709fb692aba69\support-vector-drawable-25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\9f682c10190c3ba8bbce3a6a697c24fe\recyclerview-v7-25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\9f682c10190c3ba8bbce3a6a697c24fe\recyclerview-v7-25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\43844c9cb74565322ad16a9230316100\support-fragment-25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\43844c9cb74565322ad16a9230316100\support-fragment-25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\44eb608cc6220477f0d17d6bbc795768\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\44eb608cc6220477f0d17d6bbc795768\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\dc945cab323ade101ba0a050cd0373ec\support-core-utils-25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\dc945cab323ade101ba0a050cd0373ec\support-core-utils-25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4c9dc317c98160306623880929d9a320\support-core-ui-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4c9dc317c98160306623880929d9a320\support-core-ui-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4e413f488a5522caf4fb2c7cc40402b2\support-compat-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4e413f488a5522caf4fb2c7cc40402b2\support-compat-25.3.1\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+		ADDED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\test\Photo_Exif_Toolkit\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:27:9-30:56
+	android:launchMode
+		ADDED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:29:13-48
+	android:theme
+		ADDED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.karumi:dexter:3.0.0] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\5ce73d7505f9db2ff570e22504187231\dexter-3.0.0\AndroidManifest.xml:28:13-60
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\54d48c2531b316dafb6224de6fe6eda2\appcompat-v7-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\54d48c2531b316dafb6224de6fe6eda2\appcompat-v7-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\034c6f06e83047f4744076b2fbd0221a\transition-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\034c6f06e83047f4744076b2fbd0221a\transition-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\7e62ff7970fbc500c519a80baa8445ae\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\7e62ff7970fbc500c519a80baa8445ae\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\0d40ba437f9c87fe3e790ee9c6f63be9\cardview-v7-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\0d40ba437f9c87fe3e790ee9c6f63be9\cardview-v7-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\2ed29a7df05cc5c13fac7755ee5bda81\animated-vector-drawable-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\2ed29a7df05cc5c13fac7755ee5bda81\animated-vector-drawable-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ec17b63986c8990ee8a709fb692aba69\support-vector-drawable-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ec17b63986c8990ee8a709fb692aba69\support-vector-drawable-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\9f682c10190c3ba8bbce3a6a697c24fe\recyclerview-v7-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\9f682c10190c3ba8bbce3a6a697c24fe\recyclerview-v7-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\43844c9cb74565322ad16a9230316100\support-fragment-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\43844c9cb74565322ad16a9230316100\support-fragment-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\44eb608cc6220477f0d17d6bbc795768\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\44eb608cc6220477f0d17d6bbc795768\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\dc945cab323ade101ba0a050cd0373ec\support-core-utils-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\dc945cab323ade101ba0a050cd0373ec\support-core-utils-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4c9dc317c98160306623880929d9a320\support-core-ui-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4c9dc317c98160306623880929d9a320\support-core-ui-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4e413f488a5522caf4fb2c7cc40402b2\support-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\4e413f488a5522caf4fb2c7cc40402b2\support-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\6d0f072f95acef33d9c288a5eee94b93\design-25.3.1\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\ab93e484e6003bac7b5c34a5b14f8400\play-services-maps-10.2.1\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\350bf1e4343d6dd7216634d24d901fea\play-services-base-10.2.1\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\b04b6cef74b092efd00bf5f6275d28be\play-services-basement-10.2.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\b04b6cef74b092efd00bf5f6275d28be\play-services-basement-10.2.1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\MrJ\.gradle\caches\transforms-2\files-2.1\b04b6cef74b092efd00bf5f6275d28be\play-services-basement-10.2.1\AndroidManifest.xml:20:20-65
